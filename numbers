@@ -1,0 +1,6 @@
+print("This program will add tow numbers that you type into it and display the result")
+number1 = int(input("Please enter the first number"))
+number2 = int(input("Now please enter the second number"))
+result = number1+number2
+print("The result is: ")
+print(result)
